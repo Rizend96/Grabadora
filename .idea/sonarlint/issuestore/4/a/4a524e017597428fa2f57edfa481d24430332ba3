@@ -1,0 +1,21 @@
+
+V	java:S125%"<This block of commented-out lines of code should be removed.(ãí¹§þÿÿÿÿ
+G
+java:S1602(",Remove useless curly braces around statement(êÑÔÀøÿÿÿÿ
+B
+java:S1602+",Remove useless curly braces around statement(‚€ïÀ
+B
+java:S1602/",Remove useless curly braces around statement(ÐëŠ©
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÚÕ§ê
+Y
+java:S18743"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ÚÕ§ê
+K
+java:S18749"5Remove this use of "MediaRecorder"; it is deprecated.(ð€áÒ
+^
+java:S1874="CRemove this use of "getExternalStorageDirectory"; it is deprecated.(­„·Åùÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+U
+java:S1874K"3Remove this use of "getDrawable"; it is deprecated.(¸‚·þÿÿÿÿÿ8ïŠÄ•Ö/
+>	java:S108V")Either remove or fill this block of code.(ï­£Ä
+P
+java:S1874]"3Remove this use of "getDrawable"; it is deprecated.(ÛË´ã8˜åÄ•Ö/
